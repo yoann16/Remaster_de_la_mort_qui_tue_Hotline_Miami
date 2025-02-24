@@ -1,0 +1,30 @@
+# Dossiers Build
+#[Bb]in/
+[Oo]bj/
+
+# Dossiers et fichiers Visual Studio
+.vs/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Packages NuGet
+packages/
+*.nupkg
+
+# Fichiers temporaires
+[Tt]emp/
+*.tmp
+*.log
+
+# Fichiers de build
+
+[Rr]elease/
+
+x86/
+
+# Fichiers et Dossiers qui servent à rien
+Diagramme UML/
+Docu Technique _250222_230919.pdf
+Documentation _250222_230523.pdf
