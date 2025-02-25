@@ -141,9 +141,9 @@
     <ClCompile Include="Shooter_With_IA.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Game.h" />
     <ClInclude Include="IComposite.h" />
     <ClInclude Include="IComponent.h" />
-    <ClInclude Include="IGameObject.h" />
     <ClInclude Include="ILeaf.h" />
     <ClInclude Include="MyMath.h" />
   </ItemGroup>

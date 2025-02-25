@@ -44,10 +44,10 @@
     <ClInclude Include="IComposite.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="IGameObject.h">
+    <ClInclude Include="MyMath.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="MyMath.h">
+    <ClInclude Include="Game.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
